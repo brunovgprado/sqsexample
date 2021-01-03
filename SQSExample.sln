@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SQSExample", "SQSTest\SQSExample.csproj", "{A766935C-5FB1-4C66-BFC2-A52992153E5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SQSExample", "SQSExample\SQSExample.csproj", "{A766935C-5FB1-4C66-BFC2-A52992153E5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
